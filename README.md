@@ -1,4 +1,4 @@
-This python script iterate given IP's through the respective RBL's. Usually, we are using MXtoolbox to determine the reputation of the IP. However, if you wants to check the reputation for more than 50 IP's per day, MX toolbox should block your IP and needs to go for premium plan for the process.
+This python script iterate given IP's through the respective RBL's. Usually, we are using MXtoolbox to determine the reputation of the IP. However, if you wants to check the reputation for more than 50 IP's per day, MX toolbox should block your IP and needs to go for premium plan for the process. This code help to list out the reputation of the IP's under a file.
 
 
 > This codes works on python3
